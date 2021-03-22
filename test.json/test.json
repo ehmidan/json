@@ -1,0 +1,18 @@
+// {
+//     "username":"ehmidan",
+//     "lage":20,
+//     "location":"tange",
+//     "skills":["html","css","javascript"],
+//     "adresses":{
+//         "tanger":"jirari",
+//         "marakech":"hey lbhja",
+//         "chefchawen":"ras lma",
+//         "germany":[
+//             "one",
+//             "two",
+//             "three"
+//         ]
+//     },
+//     "working":false,
+//     "identity":null 
+// } 
